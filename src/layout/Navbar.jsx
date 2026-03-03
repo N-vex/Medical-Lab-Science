@@ -29,7 +29,7 @@ export const Navbar = () => {
           href="#"
           className="text-xl font-bold tracking-light hover:text-primary"
         >
-          Pm<span className="text-primary">.</span>
+          <img src="/assets/favicon.png" alt="Logo" className="w-20 h-20 mr-2" />
         </a>
 
         {/* Hamburger Menu for Mobile */}
